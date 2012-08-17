@@ -31,9 +31,9 @@ Dependencies:
 * app-admin/conkyguayadeque (available at sunrise overlay)
 * media-fonts/ubuntu-font-family
 
-Licence:
-WTFPL - [Do What The Fuck You Want To Public License][1]
-The name "Gentoo" and the "g" logo are currently trademarks of [Gentoo Foundation, Inc][2]
+License:
+* WTFPL - [Do What The Fuck You Want To Public License][1]
+* The name "Gentoo" and the "g" logo are currently trademarks of [Gentoo Foundation, Inc][2]
 
 [0]: http://gnome-look.org/content/show.php/Conky+lua?content=139024
 [1]: http://en.wikipedia.org/wiki/WTFPL
