@@ -1,9 +1,11 @@
 conky-lua-rings-gentoo
 ======================
 
-A little customisation of Conky Lua Rings [0] with Gentoo website colors and Gentoo logo.
+A little customisation of [Conky Lua Rings][0] with Gentoo website colors and Gentoo logo.
 
-Screenshot:
+Example:
+
+![Settings](https://raw.github.com/tuxtor/conky-lua-rings-gentoo/master/example.png)
 
 Features:
 * Adapted for 8 cores
@@ -30,8 +32,8 @@ Dependencies:
 * media-fonts/ubuntu-font-family
 
 Licence:
-WTFPL - Do What The Fuck You Want To Public License [1]
-The name "Gentoo" and the "g" logo are currently trademarks of Gentoo Foundation, Inc [2]
+WTFPL - [Do What The Fuck You Want To Public License][1]
+The name "Gentoo" and the "g" logo are currently trademarks of [Gentoo Foundation, Inc][2]
 
 [0]: http://gnome-look.org/content/show.php/Conky+lua?content=139024
 [1]: http://en.wikipedia.org/wiki/WTFPL
