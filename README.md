@@ -1,7 +1,7 @@
 conky-lua-rings-gentoo
 ======================
 
-A little customisation of [Conky Lua Rings][0] with Gentoo website colors and Gentoo logo.
+A little customization of [Conky Lua Rings][0] with Gentoo website colors and Gentoo logo.
 
 Example:
 
